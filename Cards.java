@@ -6,7 +6,7 @@ import java.net.URISyntaxException;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
-
+//images for cards from http://acbl.mybigcommerce.com/52-playing-cards/
 public class Cards extends JPanel {
 	int row;
 	int col;
